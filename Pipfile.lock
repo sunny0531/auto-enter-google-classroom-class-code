@@ -114,9 +114,9 @@
         },
         "pyscreeze": {
             "hashes": [
-                "sha256:cba2f264fe4b6c70510061cb2ba6e1da0e3bfecfdbe8a3b2cd6305a2afda9e6b"
+                "sha256:4428600ed19b30cd3f4b5d83767d198fc1dbae7439eecf9bd795445c009b67ae"
             ],
-            "version": "==0.1.27"
+            "version": "==0.1.28"
         },
         "python3-xlib": {
             "hashes": [
@@ -126,9 +126,9 @@
         },
         "pytweening": {
             "hashes": [
-                "sha256:4b608a570f4dccf2201e898f643c2a12372eb1d71a3dbc7e778771b603ca248b"
+                "sha256:8533282cf70b31de8a0499e1cf420930b0013c787118872b2ec899382792e2e6"
             ],
-            "version": "==1.0.3"
+            "version": "==1.0.4"
         }
     },
     "develop": {}
